@@ -1,15 +1,17 @@
 # Notebooks
 
-This repository contains several experiements involving Machine Learning using Jupyter (Python) notebooks.
+Machine learning experiments written in Python using Jupyter notebooks.
 
-Python is not my first language... please forgive any heavy-handedness.
-
-## Prerequisites
+**Prerequisites:**
 
 -   Docker
 
-## Running
+**Running:**
 
 ```bash
 ./run.sh
 ```
+
+**Caveat:**
+
+Python is not my first language... please forgive any heavy-handedness!
